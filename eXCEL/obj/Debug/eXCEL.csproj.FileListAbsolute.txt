@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\bin\Debug\eXCEL.exe.config
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\bin\Debug\eXCEL.exe
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\bin\Debug\eXCEL.pdb
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\obj\Debug\eXCEL.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\obj\Debug\eXCEL.exe
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\obj\Debug\eXCEL.pdb
+c:\users\user\documents\visual studio 2017\Projects\eXCEL\eXCEL\obj\Debug\eXCEL.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\eXCEL\eXCEL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\eXCEL\eXCEL\bin\Debug\Newtonsoft.Json.xml
